@@ -1,5 +1,5 @@
 """
-A simple Flask application to test JWT, ETag and a custom made Rate Limiter.
+A simple Flask application to test JWT, ETag and a custom-made Rate Limiter.
 
 Author: Wim Van den Wyngaert
 """
